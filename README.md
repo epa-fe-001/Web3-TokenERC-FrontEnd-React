@@ -140,3 +140,11 @@ Kamu dapat mengirim token EchoShow Symbol ECS ke alamat teman dengan mudah melal
 </p>
 
 ---
+
+### 4. Ecosystem Token EchoShow Symbol ECS
+
+Berikut adalah gambaran ekosistem token EchoShow Symbol (ECS) yang mencakup fitur dan interaksi utama dalam aplikasi.
+
+<p align="center">
+  <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/07.PNG" alt="Ecosystem Token EchoShow Symbol ECS" width="400" />
+</p>
