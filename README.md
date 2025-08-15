@@ -148,3 +148,7 @@ Berikut adalah gambaran ekosistem token EchoShow Symbol (ECS) yang mencakup fitu
 <p align="center">
   <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/07.PNG" alt="Ecosystem Token EchoShow Symbol ECS" width="400" />
 </p>
+
+---
+> **Catatan:**  
+> Pastikan alamat wallet teman sudah benar dan wallet kamu terhubung ke jaringan Sepolia Testnet agar transaksi berhasil.
