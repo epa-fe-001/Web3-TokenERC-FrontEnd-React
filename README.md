@@ -152,3 +152,4 @@ Berikut adalah gambaran ekosistem token EchoShow Symbol (ECS) yang mencakup fitu
 ---
 > **Catatan:**  
 > Pastikan alamat wallet teman sudah benar dan wallet kamu terhubung ke jaringan Sepolia Testnet agar transaksi berhasil.
+> alamat contract Token Ecoshow ECS : 0x25B836Bbca7574003Dd102a44C4805da20d78296
