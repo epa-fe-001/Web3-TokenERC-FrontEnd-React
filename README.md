@@ -63,10 +63,14 @@ PRIVATE_KEY=YOUR_ADRESS_PRIVATE_KEY_
 
 Pengujian Aplication
 1. Saat Pertama Anda Memasuki website anda harus login dengan menggunakan connect wallet.
-    ```bashKlik Connect Wallet -> Verification Extenstion Wallet Metamask```
+<br/>
+    ```Klik Connect Wallet -> Verification Extenstion Wallet Metamask```
  <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/connect_metamask.PNG" />
 
 2. Anda Dapat Mengklaim Faucet Token EchoShow Symbol ECS
+<br/>
+    ```Klik Claim Faucet -> Verification Wallet Metamask``` 
+    ```Gass Fee Menggunakan ETH Sepoila``` 
 <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/claim_faucet.PNG" />
 
 ---
