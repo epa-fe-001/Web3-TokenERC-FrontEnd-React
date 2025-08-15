@@ -59,18 +59,45 @@ PRIVATE_KEY=YOUR_ADRESS_PRIVATE_KEY_
 ```
 
 
-## 📝 Testing Aplication
+## 🧪 Testing Application
 
-Pengujian Aplication
-1. Saat Pertama Anda Memasuki website anda harus login dengan menggunakan connect wallet.
-<br/>
-    ```Klik Connect Wallet -> Verification Extenstion Wallet Metamask```
- <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/connect_metamask.PNG" />
+Berikut langkah-langkah pengujian aplikasi agar kamu bisa mencoba fitur utama dengan lancar.
 
-2. Anda Dapat Mengklaim Faucet Token EchoShow Symbol ECS
-<br/>
-    ```Klik Claim Faucet -> Verification Wallet Metamask``` 
-    ```Gass Fee Menggunakan ETH Sepoila``` 
-<img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/claim_faucet.PNG" />
+---
+
+### 1. Login dengan Connect Wallet
+
+Saat pertama kali membuka website, kamu harus menghubungkan wallet kamu dengan aplikasi.
+
+- Klik tombol **Connect Wallet**  
+- Verifikasi menggunakan ekstensi wallet MetaMask di browser kamu
+
+<p align="center">
+  <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/connect_metamask.PNG" alt="Connect Wallet MetaMask" width="400" />
+</p>
+
+---
+
+### 2. Klaim Faucet Token EchoShow Symbol ECS
+
+Setelah berhasil login, kamu dapat mengklaim token dari Faucet.
+
+- Klik tombol **Claim Faucet**  
+- Verifikasi transaksi pada wallet MetaMask  
+- Gas fee menggunakan ETH di jaringan Sepolia Testnet
+
+<p align="center">
+  <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/claim_faucet.PNG" alt="Claim Faucet" width="400" />
+</p>
+
+---
+
+**Catatan:**  
+Pastikan wallet MetaMask kamu sudah terhubung ke jaringan Sepolia Testnet agar transaksi berjalan lancar.
+
+---
+
+Kalau kamu mau, aku juga bisa bantu buatkan video tutorial singkat yang bisa kamu embed di README untuk memperjelas proses testing ini. Gimana?
+
 
 ---
