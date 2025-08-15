@@ -63,7 +63,7 @@ PRIVATE_KEY=YOUR_ADRESS_PRIVATE_KEY_
 
 Pengujian Aplication
 1. Saat Pertama Anda Memasuki website anda harus login dengan menggunakan connect wallet
- <img src="https://github.com/epaweb3/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/connect_metamask.PNG" />
+ <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/connect_metamask.PNG" />
 
- 
+
 ---
