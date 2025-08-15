@@ -92,12 +92,51 @@ Setelah berhasil login, kamu dapat mengklaim token dari Faucet.
 
 ---
 
-**Catatan:**  
-Pastikan wallet MetaMask kamu sudah terhubung ke jaringan Sepolia Testnet agar transaksi berjalan lancar.
+### 3. Kirim Token EchoShow Symbol ECS ke Teman
+
+Kamu dapat mengirim token EchoShow Symbol ECS ke alamat teman dengan mudah melalui aplikasi ini.
 
 ---
 
-Kalau kamu mau, aku juga bisa bantu buatkan video tutorial singkat yang bisa kamu embed di README untuk memperjelas proses testing ini. Gimana?
+**Langkah-langkah:**
 
+1. Masukkan alamat wallet teman yang ingin kamu kirimi token pada kolom input yang tersedia.  
+2. Klik tombol **Send** untuk memulai pengiriman token.  
+3. Konfirmasi transaksi melalui wallet MetaMask kamu.
+
+---
+
+**Konfirmasi Transaksi**
+
+<p align="center">
+  <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/03.PNG" alt="Konfirmasi Transaksi MetaMask" width="400" />
+</p>
+
+---
+
+**Riwayat Transaksi Wallet**
+
+<p align="center">
+  <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/05.PNG" alt="Riwayat Transaksi Wallet" width="400" />
+</p>
+
+---
+
+**Token Berhasil Dikirim**
+
+<p align="center">
+  <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/04.PNG" alt="Token Berhasil Dikirim" width="400" />
+</p>
+
+---
+
+**Detail Transaksi di Blockchain**
+
+- Link transaksi di Sepolia Etherscan:  
+  [https://sepolia.etherscan.io/tx/0x0a4a1dfac72bf736506906b48887ed4c46d602b8ecdb481f7ab2863cdcaca95b](https://sepolia.etherscan.io/tx/0x0a4a1dfac72bf736506906b48887ed4c46d602b8ecdb481f7ab2863cdcaca95b)
+
+<p align="center">
+  <img src="https://github.com/epa-fe-001/Web3-TokenERC-FrontEnd-React/blob/main/front-testnet/src/images/06.PNG" alt="Detail Transaksi di Blockchain" width="400" />
+</p>
 
 ---
